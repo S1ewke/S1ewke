@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Slewke 👋</h1>
 
-<!--
-**S1ewke/S1ewke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Python developer (student) • Telegram bots • SQLite • APIs
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://t.me/shop_support9">Telegram</a> •
+  <a href="https://github.com/Slewke/Telegram-shop">Main project</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I build
+- 🛒 **Telegram Shop Bot** — catalog, cart, orders, SQLite, API integrations, Crypto Payment
+  Repo: https://github.com/Slewke/Telegram-shop
+- 🎯 **Aim Trainer** — small Python app to practice aim & accuracy  
+  Repo: https://github.com/Slewke/Update-Aim-train
+
+---
+
+## 🧰 Tech stack
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-000?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+
+---
+
+## 📌 Current focus
+- Improving Telegram bot architecture (handlers, states, DB layer)
+- Clean commits & readable code
+- Small projects shipped regularly

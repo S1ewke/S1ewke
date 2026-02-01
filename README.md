@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 What I build
-- 🛒 **Telegram Shop Bot** — catalog, cart, orders, SQLite, API integrations, Crypto Payment
-  Repo: https://github.com/Slewke/Telegram-shop
+ 🧠 **MindForge** — desktop application for tracking decisions, focus and personal growth  
+  Tech: Python, customtkinter, SQLite  
+  Repo: https://github.com/S1ewke/mindforge
 - 🎯 **Aim Trainer** — small Python app to practice aim & accuracy  
   Repo https://github.com/S1ewke/Update-Aim-train
 

@@ -15,7 +15,7 @@
 - 🛒 **Telegram Shop Bot** — catalog, cart, orders, SQLite, API integrations, Crypto Payment
   Repo: https://github.com/Slewke/Telegram-shop
 - 🎯 **Aim Trainer** — small Python app to practice aim & accuracy  
-  Repo: https://github.com/Slewke/Update-Aim-train
+  Repo https://github.com/S1ewke/Update-Aim-train
 
 ---
 
